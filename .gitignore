@@ -203,6 +203,10 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Azure Functions local settings
+local.settings.json
+src/local.settings.json
+
 # Ruff stuff:
 .ruff_cache/
 
